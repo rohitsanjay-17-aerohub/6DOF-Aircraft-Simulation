@@ -1,0 +1,15 @@
+# Cache and auto-generated files
+slprj/
+simulink.cache/
+matlabdata/
+trimworking/
+*.slxc
+*.asv
+*.autosave
+*.log
+*.tmp
+*.mexa64
+*.mexw64
+*.user
+*.bak
+runfg.bat
