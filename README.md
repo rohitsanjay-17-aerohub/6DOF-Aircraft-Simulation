@@ -1,4 +1,5 @@
-✈️ Modeling and Simulation of a 6DOF Aircraft:
+**✈️ Modeling and Simulation of a 6DOF Aircraft:**
+
 This models shows a fixed-wing aircraft performing steady-state trim and dynamic response analysis using Simulink® and Aerospace Blockset™. The simulation includes a full 6-degrees-of-freedom (6DOF) nonlinear rigid-body model with aerodynamic, propulsion, and flight control elements. The aircraft is trimmed to specified flight conditions and excited with control surface inputs to evaluate its dynamic behavior. The model also enables linearization and eigenmode analysis to study short-period, phugoid, and Dutch roll modes.
 
 Key Components:
