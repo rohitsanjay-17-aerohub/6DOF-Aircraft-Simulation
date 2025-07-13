@@ -8,7 +8,7 @@ This model shows a fixed-wing aircraft performing steady-state trim and dynamic 
 
 This model uses the following key components to model and analyze the aircraft:
 
-- **ISA Atmospheric Model** for air property variation with altitude (Requires Aerospace Blockset™)  
+- **ISA Atmospheric Model** for air property variation with altitude 
 - **Aerodynamic Forces and Moments** modeled using control surface deflections and stability derivatives  
 - **6DOF Equations of Motion** in body axes for full rigid-body dynamics  
 - **Throttle-Based Propulsion System** to simulate thrust generation and power control  
